@@ -52,3 +52,6 @@ Sometimes referred to as the "AVS", "limit of positive stability", "LPS", or "La
 
 **MCR (Motion Comfort Ratio)**<br>
 Redicts the predicts the overall comfort of a boat when it is underway. The formula predicts the speed of the upward and downward motion of the boat as it encounters waves and swells. The faster the motion the more uncomfortable the passengers. The higher the number, the more resistant a boat is to movement. This ratio was created by boat designer, Ted Brewer. It is useful in comparing different boats. A higher value predicts a more comfortable ride. Asailboat with a LOA of 42 would be expected to have a Motion Comfort Ratio in the low 30’s
+
+## License
+This software is released into the Public Domain.
